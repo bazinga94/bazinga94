@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Shinhan Bank**
-- 🌱 I’m currently learning **Swift, Reactive Programming, Design Pattern**
-- 📫 How to reach me: bazinga940@gmail.com
+- 🔭 I’m currently Studying **Software Engineering** at **University of Maryland, College Park**
+- 🌱 I’m currently learning **Software Engineering, Swift, Reactive Programming, Concurrency**
+- 🧑‍💻 Worked as an iOS Developer at **Shinhan Bank**
+- 📫 How to reach me: jongho.lee94@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bazinga94&show_icons=true&theme=vue&count_private=true)
 

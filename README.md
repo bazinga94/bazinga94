@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently Studying at **University of Maryland, College Park**
-- 🌱 I’m currently learning **Software Engineering, Swift(Reactive Programming, Concurrency), Back-end Engineering**
+- 🌱 I’m currently learning **Software Engineering, iOS(Combine, Concurrency, TCA, SwiftUI), Back-end Engineering**
 - 🧑‍💻 Worked as an iOS Developer at **Shinhan Bank**
 - 📫 How to reach me: jongho.lee94@gmail.com
 
